@@ -3,3 +3,4 @@ This project uses a hybrid model which is a combination of a popularity recommen
 the implicit model uses an ALS implementation.
 Finally the model was deployed using fastapi...still contemplating on building a dash app for this as at the time of writing this.
 Data preprocessing and testing was done. The entire project was broken down into seperate python scripts for reusability and ease of debugging.
+Meanwhile, the dataset(which was intentionally omitted from the repo) can be downloaded from the last fm website.
